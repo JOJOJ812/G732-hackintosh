@@ -12,7 +12,6 @@ MacOS Big Sur 11.x
 MacOS Catalina 10.15.x  
 MacOS Mojave 10.14.x  
 MacOS High Sierra 10.13.6 
-（建议使用Moterey，非Moterey系统请取消自行更换网卡与蓝牙驱动）
 
 ## 适用型号
   * 魔霸4
@@ -47,8 +46,8 @@ MacOS High Sierra 10.13.6
 - Mac App Store正常运行
 - CPU变频
 - 睡眠唤醒（鼠标，键盘、电源键唤醒均正常）
-- 无线网络（你可以使用intel网卡，驱动来自https://github.com/OpenIntelWireless/itlwm/releases
-- 蓝牙（你可以使用intel蓝牙，驱动来自https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases
+- 无线网络（你可以使用intel网卡，驱动来自https://github.com/OpenIntelWireless/itlwm/releases）
+- 蓝牙（你可以使用intel蓝牙，驱动来自https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases）
 - 随航（有线/无线{需要网卡支持}）
 -全系支持触摸板
 
