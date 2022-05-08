@@ -13,6 +13,7 @@ MacOS Catalina 10.15.x
 MacOS Mojave 10.14.x  
 MacOS High Sierra 10.13.6 
 
+
 ## 适用型号
   * 魔霸4
   * 幻系列（2019-2020版）
