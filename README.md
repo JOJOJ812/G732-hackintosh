@@ -7,7 +7,7 @@
 
 
 ## 适用系统
-MacOS Monterey 12.x
+MacOS Monterey 12.x  
 MacOS Big Sur 11.x  
 MacOS Catalina 10.15.x  
 MacOS Mojave 10.14.x  
